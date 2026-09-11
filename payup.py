@@ -1,9 +1,9 @@
-event = "Dinner"
-cost = 100
-service_charge = 10
-group_size = 5
-grand_total = cost + service_charge
-total_per_person = grand_total / group_size
+event = input("What was the event? ")
+cost = input("How much did it cost? ")
+service_charge = input("What was the service charge on the bill? ")
+group_size = input("How many people were there in total? ")
+grand_total = 330
+total_per_person = 110
 
 
 print("Welcome to the PayUp!")
