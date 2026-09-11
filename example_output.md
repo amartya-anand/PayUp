@@ -1,6 +1,6 @@
 # Welcome to PayUp!
 
-## Here's the breakdownfor dinner at Fantastic Pizza:
+## Here's the breakdown for dinner at Fantastic Pizza:
 
 ### Cost : $300
 ### Service charges : $30
